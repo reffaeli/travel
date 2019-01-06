@@ -1,10 +1,10 @@
 {
 	"version": 3,
-	"file": "../scss/bootstrap.css",
+	"file": "scss/bootstrap.css",
 	"sources": [
-		"../scss/bootstrap.scss",
-		"../scss/bootstrap/_functions.scss",
-		"../scss/bootstrap/_variables.scss",
+		"scss/bootstrap.scss",
+		"scss/bootstrap/_functions.scss",
+		"./scss/bootstrap/_variables.scss",
 		"../scss/bootstrap/_mixins.scss",
 		"../scss/bootstrap/mixins/_breakpoints.scss",
 		"../scss/bootstrap/mixins/_hover.scss",
